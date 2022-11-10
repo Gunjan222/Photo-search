@@ -11,7 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-debounce-input": "^3.3.0",
+    "react-dom": "^18.2.0",
+    "react-masonry-component": "^6.3.0",
+    "react-modal": "^3.16.1"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
